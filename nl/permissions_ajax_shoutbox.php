@@ -43,7 +43,7 @@ $lang = array_merge(
 	$lang, array(
 		'ACL_U_SHOUTBOX_VIEW'   => 'Kan de ajax shoutbox bekijken',
 		'ACL_U_SHOUTBOX_POST'   => 'Kan berichten plaatsen in de ajax shoutbox',
-		'ACL_U_SHOUTBOX_QUOTE'  => 'Kan berichten quoten in de ajax shoutbox',
+		'ACL_U_SHOUTBOX_QUOTE'  => 'Kan berichten citeren in de ajax shoutbox',
 		'ACL_U_SHOUTBOX_BBCODE' => 'Kan BBCode gebruiken in de ajax shoutbox',
 		'ACL_U_SHOUTBOX_DELETE' => 'Kan eigen berichten verwijderen uit de ajax shoutbox',
 		'ACL_M_SHOUTBOX_DELETE' => 'Kan berichten verwijderen uit de ajax shoutbox',
