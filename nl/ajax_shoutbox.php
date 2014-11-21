@@ -34,6 +34,7 @@ if (empty($lang) || !is_array($lang))
 // Some characters you may want to copy&paste:
 // ’ » “ ” …
 //
+
 $lang = array_merge(
 	$lang, array(
 		"AJAX_SHOUTBOX"    => "Shoutbox",
