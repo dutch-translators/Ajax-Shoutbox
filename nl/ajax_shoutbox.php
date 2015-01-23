@@ -40,10 +40,14 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge(
 	$lang, array(
-		"AJAX_SHOUTBOX"    => "Shoutbox",
-		"SHOUTBOX_MESSAGE" => "Plaats bericht",
-		"ONLY_AJAX"        => "Sorry, je kan alleen een bericht plaatsen als JavaScript is ingeschakeld.",
-		"AJAX_SHOUTBOX_NO_PERMISSION"   => 'Geen toestemming voor de geselecteerde actie',
-		'AJAX_SHOUTBOX_MESSAGE_EMPTY'   => 'Het bericht is leeg',
+		'AJAX_SHOUTBOX'                  => 'Shoutbox',
+		'AJAX_SHOUTBOX_MESSAGE'          => 'Bericht toevoegen',
+		'AJAX_SHOUTBOX_ONLY_AJAX'        => 'Sorry, je kunt alleen berichten plaatsen als JavaScript is ingeschakeld',
+		'AJAX_SHOUTBOX_NO_PERMISSION'    => 'Geen persmissies voor de geselecteerde actie',
+		'AJAX_SHOUTBOX_MESSAGE_EMPTY'    => 'Leeg bericht',
+		'AJAX_SHOUTBOX_ERROR'            => 'Fout',
+		'AJAX_SHOUTBOX_MISSING_ID'       => 'Kan het bericht niet verwijderen',
+		'AJAX_SHOUTBOX_NO_SUCH_POST'     => 'Kan het bericht niet vinden',
+		'AJAX_SHOUTBOX_PUSH_NOT_AVAIL'   => 'De remote push server is momenteel niet bereikbaar',
 	)
 );
