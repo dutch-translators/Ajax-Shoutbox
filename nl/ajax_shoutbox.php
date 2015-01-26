@@ -42,7 +42,7 @@ $lang = array_merge(
 	$lang, array(
 		'AJAX_SHOUTBOX'                  => 'Shoutbox',
 		'AJAX_SHOUTBOX_MESSAGE'          => 'Bericht toevoegen',
-		'AJAX_SHOUTBOX_ONLY_AJAX'        => 'Sorry, je kunt alleen berichten plaatsen als JavaScript is ingeschakeld',
+		'AJAX_SHOUTBOX_ONLY_AJAX'        => 'Sorry, je kan alleen berichten plaatsen als JavaScript is ingeschakeld',
 		'AJAX_SHOUTBOX_NO_PERMISSION'    => 'Geen persmissies voor de geselecteerde actie',
 		'AJAX_SHOUTBOX_MESSAGE_EMPTY'    => 'Leeg bericht',
 		'AJAX_SHOUTBOX_ERROR'            => 'Fout',
