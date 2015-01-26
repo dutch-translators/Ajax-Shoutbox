@@ -37,7 +37,7 @@ if (empty($lang) || !is_array($lang))
 $lang = array_merge(
 	$lang, array(
 		'ACP_AJAXSHOUTBOX_SETTINGS'     => 'Ajax Shoutbox instellingen',
-		'ACP_AJAXSHOUTBOX_SETTINGS_EXPLAIN'     => 'Op deze pagina kun je de instellingen van de Ajax Shoutbox wijzigen. <br /><br />
+		'ACP_AJAXSHOUTBOX_SETTINGS_EXPLAIN'     => 'Op deze pagina kan je de instellingen van de Ajax Shoutbox wijzigen. <br /><br />
 			Als je jouw leden gebruik wil laten maken van de iOS en android APPs (Momenteel nog niet beschikbaar en in BETA, maar gebruikers kunnen de APP wel gebruiken voor
 			jouw forum als ze toegang hebben tot de beta.
 			Kijk <a href="http://www.ajax-shoutbox.com/viewtopic.php?f=2&t=9">hier</a> voor meer informatie), je moet een account aanmaken op
